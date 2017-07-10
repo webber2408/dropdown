@@ -1,0 +1,13 @@
+.category-list{
+    position:fixed;
+    top:50px;
+    width:20%;
+    margin-left:50px;
+   
+}
+#subcat1 , #subcat2 , #subcat3 , #subcat4 , #subcat5 , #subcat6 , #subcat7 , #subcat8 , #subcat9 , #subcat10 {
+    position:fixed;
+    top:50px;
+    left:350px;
+    width:50%;
+}
